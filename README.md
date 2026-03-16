@@ -41,6 +41,7 @@ BongoCat is a **fully-featured**, **native macOS** typing companion with extensi
 - **Drag & Drop**: Move the cat anywhere on screen by dragging
 - **Corner Snapping**: Quick positioning to screen corners (Top/Bottom × Left/Right)
 - **Per-App Positioning**: 🌟 **Unique Feature!** Cat remembers different positions for different applications
+- **Per-App Visibility**: Cat remembers if it should show or hide for different applications
 - **Position Persistence**: Saves and restores positions across app restarts
 - **Multi-Monitor Support**: Works across multiple displays
 
